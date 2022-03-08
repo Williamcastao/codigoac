@@ -1,0 +1,108 @@
+h1,h2,h3,h4,h5{
+    text-align: center;
+}
+/*login*/
+.iniciologin{
+    margin-top: 20px;
+}
+.sena{
+    padding-left: 600px;
+    margin-top: 20px;
+}
+.ep1{
+    margin-left: 700px;
+    margin-top: 50px;
+}
+.ep2{
+    margin-left: 700px;
+    margin-top: 20px;
+}
+.botonlogin{
+    margin-left: 750px;
+    margin-top: 20px;
+}
+/*Accion*/
+.cerrarsesion{
+    padding-left: 1550px;
+}
+.cerrar{
+    margin-top: 10px;
+    width: 20px;
+}
+.rie{
+    padding-left: 500px;
+    margin-top: 10px;
+}
+.r{
+    margin-top: 60px;
+    margin-right:200px;
+}
+.ie{
+    padding-right: 20px;
+}
+.historial{
+    margin-top: 150px;
+    padding-left: 1530px;
+}
+/*adminaccion*/
+.cerraradmin{
+    padding-left: 1550px;
+}
+/*listado*/
+.logo{
+    width: 100px;
+}
+.tablita{
+    background-color:beige;
+}
+.basura{
+    width: 20px;
+}
+.ojo{
+    width: 20px;
+}
+/*Registro*/
+.inicioregistro{
+    margin-top: 10px;
+}
+.inpu{
+    margin-left: 700px;
+    margin-top: 10px;
+}
+.tipo{
+    margin-left: 700px;
+}
+.can{
+    margin-left: 810px;
+}
+.acep{
+    margin-left: 812px;
+}
+.validacion{
+    margin-left: 700px;
+    margin-top: 50px;
+}
+.consulta{
+    padding-left: 20px;
+}
+/*lapiz*/
+.lapiz{
+    width: 20px;
+}
+.adminguardar{
+    margin-left: 810px;
+    margin-top: 10px;
+}
+.admincancelar{
+    margin-left: 810px;
+    margin-top: 10px;
+}
+.bnt-acepta{
+    margin-left:810px;
+}
+.btn-cancela{
+    margin-left:810px;
+}
+.regresa{
+    margin-left: 1500px;
+}
